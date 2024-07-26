@@ -12,11 +12,10 @@ Explore TrackMudra by downloading the app from the link below:
 ## Screenshots
 Here are some screenshots of the TrackMudra application:
 
-<img src="https://github.com/user-attachments/assets/a9452ae6-a3aa-4981-ab80-a7f84c48174a" alt="Goal Setter" width="300">
-<img src="https://github.com/user-attachments/assets/64a9c84d-2b77-4e42-8e2d-8b2f2bc3a1e0" alt="Goal Setter" width="300">
-<img src="https://github.com/user-attachments/assets/5bcd1ae2-6a88-48bb-9f14-1304fd90ab1a" alt="Goal Setter" width="300">
-<img src="https://github.com/user-attachments/assets/4ad25910-bff6-4ba7-a66e-cf28bd9bf79e" alt="Goal Setter" width="300">
-**Goal Setter Screen**
+<img src="https://github.com/user-attachments/assets/a9452ae6-a3aa-4981-ab80-a7f84c48174a" alt="Goal Setter" width="300"> Home
+<img src="https://github.com/user-attachments/assets/64a9c84d-2b77-4e42-8e2d-8b2f2bc3a1e0" alt="Goal Setter" width="300"> Expense Tracker
+<img src="https://github.com/user-attachments/assets/5bcd1ae2-6a88-48bb-9f14-1304fd90ab1a" alt="Goal Setter" width="300"> Investment Manager
+<img src="https://github.com/user-attachments/assets/4ad25910-bff6-4ba7-a66e-cf28bd9bf79e" alt="Goal Setter" width="300"> Goal Setter
 
 ## Key Features
 
